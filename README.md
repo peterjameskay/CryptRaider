@@ -23,7 +23,7 @@ This project can be used as a template for creating a similar genre game. Great 
 
 ## Features
 
-- C++ Unreal Engine 5 project
+- C++ and Blueprint Unreal Engine 5 project
 - Modular Level Designs
 - Moveable Actor Components
 - Enhanced Input Subsystem is used for input
